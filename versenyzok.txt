@@ -1,0 +1,29 @@
+# Versenyzők: Név;Kor;Magasság;Csapat;Legnagyobb sebesség (km/h);Átlagsebesség (km/h);Helyezés;Autó;Befejezte-e a versenyt (True/False)
+Max Verstappen;27;180;Red Bull Racing;372;220;1;Red Bull RB21;True
+Lewis Hamilton;40;174;Mercedes;360;215;2;Mercedes W16;True
+Charles Leclerc;27;180;Ferrari;355;210;3;Ferrari SF24;True
+Sergio Pérez;34;173;Red Bull Racing;370;225;4;Red Bull RB21;False
+Fernando Alonso;43;171;Aston Martin;350;210;5;Aston Martin AMR25;True
+George Russell;26;182;Mercedes;350;210;6;Mercedes W16;True
+Carlos Sainz;30;178;Ferrari;345;205;7;Ferrari SF24;True
+Lance Stroll;25;179;Aston Martin;340;200;8;Aston Martin AMR25;False
+Daniel Ricciardo;34;180;AlphaTauri;330;190;9;AlphaTauri AT02;True
+Esteban Ocon;28;177;Alpine;320;180;10;Alpine A523;True
+Pierre Gasly;27;175;Alpine;315;175;11;Alpine A523;True
+Sebastian Vettel;36;182;Aston Martin;310;170;12;Aston Martin AMR25;True
+Mick Schumacher;25;181;Haas;305;165;13;Haas VF22;False
+Valtteri Bottas;34;178;Alfa Romeo;300;160;14;Alfa Romeo C42;True
+Kimi Räikkönen;45;179;Alfa Romeo;295;155;15;Alfa Romeo C42;True
+Nicholas Latifi;28;176;Williams;290;150;16;Williams FW44;False
+Alex Albon;28;177;Williams;285;145;17;Williams FW44;True
+Zhou Guanyu;24;174;Alfa Romeo;280;140;18;Alfa Romeo C42;True
+Robert Kubica;39;176;Alfa Romeo;275;135;19;Alfa Romeo C42;True
+Yuki Tsunoda;23;169;AlphaTauri;270;130;20;AlphaTauri AT02;True
+Lando Norris;24;170;McLaren;265;125;21;McLaren MCL36;True
+Daniel Ticktum;22;168;McLaren;260;120;22;McLaren MCL36;True
+Jack Aitken;25;175;Aston Martin;255;115;23;Aston Martin AMR25;False
+Robert Shwartzman;25;180;Ferrari;250;110;24;Ferrari SF24;True
+Callum Ilott;24;173;Alfa Romeo;245;105;25;Alfa Romeo C42;True
+Mick Jagger;26;176;Haas;240;100;26;Haas VF22;True
+Felipe Drugovich;23;171;Aston Martin;235;95;27;Aston Martin AMR25;True
+Nikita Mazepin;24;179;Haas;230;90;28;Haas VF22;False
