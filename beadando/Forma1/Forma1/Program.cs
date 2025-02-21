@@ -8,12 +8,14 @@ using System.Threading.Tasks;
 namespace Forma1
 {
     internal class Program
-    {    // JAVITASRA SZORUL A BEOLVASAS MIVEL AZ ADATOK EGY KICCCCSSIT OSSZEVANNAK KUTYÚVA
+    {    // JAVITASRA SZORUL A BEOLVASAS MIVEL AZ ADATOK EGY KICCCCSSIT OSSZEVANNAK KUTYÚVA + tanar ur azt mondta hogy az osztalyba tenne kulon kulon a fajlbeolvasast statikusan!
         static List<Versenyzo> versenyzok = new List<Versenyzo>();
         static List<Auto> autok = new List<Auto>();
+        static List<Csapatok> csapat = new List<Csapatok>(); 
         static void Main(string[] args)
         {
             Fajlbeolvasas();
+
         }
 
         private static void Fajlbeolvasas()
