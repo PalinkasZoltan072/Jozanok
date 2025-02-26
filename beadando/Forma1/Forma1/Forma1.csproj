@@ -46,6 +46,7 @@
     <Compile Include="Auto.cs" />
     <Compile Include="Csapatok.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="futtatho.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Versenyzo.cs" />
   </ItemGroup>

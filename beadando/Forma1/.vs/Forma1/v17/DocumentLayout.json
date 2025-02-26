@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\12.B\\Jozanok\\beadando\\Forma1\\",
+  "WorkspaceRootPath": "H:\\2024-25\\csapatmunka\\Jozanok\\beadando\\Forma1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|H:\\12.B\\Jozanok\\beadando\\Forma1\\forma1\\csapatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\csapatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|H:\\12.B\\Jozanok\\beadando\\Forma1\\forma1\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|H:\\2024-25\\csapatmunka\\Jozanok\\beadando\\Forma1\\forma1\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|H:\\12.B\\Jozanok\\beadando\\Forma1\\forma1\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|H:\\2024-25\\csapatmunka\\Jozanok\\beadando\\Forma1\\forma1\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|h:\\12.b\\jozanok\\beadando\\forma1\\forma1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|h:\\2024-25\\csapatmunka\\jozanok\\beadando\\forma1\\forma1\\csapatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\csapatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|h:\\2024-25\\csapatmunka\\jozanok\\beadando\\forma1\\forma1\\futtatho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\futtatho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|h:\\2024-25\\csapatmunka\\jozanok\\beadando\\forma1\\forma1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,47 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2024-25\\csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Program.cs",
+              "RelativeDocumentMoniker": "Forma1\\Program.cs",
+              "ToolTip": "H:\\2024-25\\csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Program.cs",
+              "RelativeToolTip": "Forma1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:08:42.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Csapatok.cs",
-              "DocumentMoniker": "H:\\12.B\\Jozanok\\beadando\\Forma1\\Forma1\\Csapatok.cs",
+              "DocumentMoniker": "H:\\2024-25\\csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Csapatok.cs",
               "RelativeDocumentMoniker": "Forma1\\Csapatok.cs",
-              "ToolTip": "H:\\12.B\\Jozanok\\beadando\\Forma1\\Forma1\\Csapatok.cs",
+              "ToolTip": "H:\\2024-25\\csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Csapatok.cs",
               "RelativeToolTip": "Forma1\\Csapatok.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T13:18:17.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Auto.cs",
-              "DocumentMoniker": "H:\\12.B\\Jozanok\\beadando\\Forma1\\Forma1\\Auto.cs",
+              "DocumentMoniker": "H:\\2024-25\\csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Auto.cs",
               "RelativeDocumentMoniker": "Forma1\\Auto.cs",
-              "ToolTip": "H:\\12.B\\Jozanok\\beadando\\Forma1\\Forma1\\Auto.cs",
+              "ToolTip": "H:\\2024-25\\csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Auto.cs",
               "RelativeToolTip": "Forma1\\Auto.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAkwA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T13:11:20.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Versenyzo.cs",
-              "DocumentMoniker": "H:\\12.B\\Jozanok\\beadando\\Forma1\\Forma1\\Versenyzo.cs",
+              "DocumentMoniker": "H:\\2024-25\\csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Versenyzo.cs",
               "RelativeDocumentMoniker": "Forma1\\Versenyzo.cs",
-              "ToolTip": "H:\\12.B\\Jozanok\\beadando\\Forma1\\Forma1\\Versenyzo.cs",
+              "ToolTip": "H:\\2024-25\\csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Versenyzo.cs",
               "RelativeToolTip": "Forma1\\Versenyzo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T12:50:30.674Z",
               "EditorCaption": ""
@@ -74,12 +91,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "H:\\12.B\\Jozanok\\beadando\\Forma1\\Forma1\\Program.cs",
-              "RelativeDocumentMoniker": "Forma1\\Program.cs",
-              "ToolTip": "H:\\12.B\\Jozanok\\beadando\\Forma1\\Forma1\\Program.cs",
-              "RelativeToolTip": "Forma1\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAACyAAAAAAAAAA==",
+              "Title": "futtatho.cs",
+              "DocumentMoniker": "H:\\2024-25\\csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\futtatho.cs",
+              "RelativeDocumentMoniker": "Forma1\\futtatho.cs",
+              "ToolTip": "H:\\2024-25\\csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\futtatho.cs",
+              "RelativeToolTip": "Forma1\\futtatho.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T12:27:42.652Z",
               "EditorCaption": ""

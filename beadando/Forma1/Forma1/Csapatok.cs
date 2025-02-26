@@ -8,7 +8,7 @@ namespace Forma1
 {
     internal class Csapatok
     {
-        public string csapat, versenyzo, auto;
+        public string csapat, elsoversenyzo,masodikversenyzo, auto;
         
 
         public Csapatok(string sor) 
@@ -16,8 +16,10 @@ namespace Forma1
 
             string[] st = sor.Split(';');
             csapat = st[0];
+            string[] versenyzok = st[1].Split(',');
+            elsoversenyzo = versenyzok[0];
             // tobb versenyzo van egy csapatban es akk hogy taroljuk el? 
-            versenyzo = st[1];
+            masodikversenyzo = versenyzok[1];
             auto = st[2];
         }
     }
