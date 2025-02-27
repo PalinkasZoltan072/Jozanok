@@ -5,3 +5,10 @@ H:\2024-25\csapatmunka\Jozanok\beadando\Forma1\Forma1\obj\Debug\Forma1.csproj.As
 H:\2024-25\csapatmunka\Jozanok\beadando\Forma1\Forma1\obj\Debug\Forma1.csproj.CoreCompileInputs.cache
 H:\2024-25\csapatmunka\Jozanok\beadando\Forma1\Forma1\obj\Debug\Forma1.exe
 H:\2024-25\csapatmunka\Jozanok\beadando\Forma1\Forma1\obj\Debug\Forma1.pdb
+H:\2024-25\=====csapatmunka\Jozanok\beadando\Forma1\Forma1\bin\Debug\Forma1.exe.config
+H:\2024-25\=====csapatmunka\Jozanok\beadando\Forma1\Forma1\bin\Debug\Forma1.exe
+H:\2024-25\=====csapatmunka\Jozanok\beadando\Forma1\Forma1\bin\Debug\Forma1.pdb
+H:\2024-25\=====csapatmunka\Jozanok\beadando\Forma1\Forma1\obj\Debug\Forma1.csproj.AssemblyReference.cache
+H:\2024-25\=====csapatmunka\Jozanok\beadando\Forma1\Forma1\obj\Debug\Forma1.csproj.CoreCompileInputs.cache
+H:\2024-25\=====csapatmunka\Jozanok\beadando\Forma1\Forma1\obj\Debug\Forma1.exe
+H:\2024-25\=====csapatmunka\Jozanok\beadando\Forma1\Forma1\obj\Debug\Forma1.pdb

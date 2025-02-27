@@ -20,7 +20,7 @@ namespace Forma1
             loero = Convert.ToInt32(st[2]);
             csucssebesseg = Convert.ToInt32(st[3]);
             urtartalom = Convert.ToInt32(st[4]);
-            // javatasos kell halo
+            javitasalatte = Convert.ToBoolean(st[5]);
 
 
         }

@@ -1,4 +1,4 @@
-# Csapatok: Csapat neve;Versenyzők (Vezető, Versenyző);Autó
+#Csapat neve;Versenyzők (Vezető, Versenyző);Autó
 Red Bull Racing;Max Verstappen, Sergio Pérez;Red Bull RB21
 Mercedes;Lewis Hamilton, George Russell;Mercedes W16
 Ferrari;Charles Leclerc, Carlos Sainz;Ferrari SF24

@@ -9,8 +9,8 @@ namespace Forma1
 {
     internal class Versenyzo
     {
-        public string nev, csapat, auto;
-        public int kor, magassag, helyezes;
+        public string nev,palya ,csapat, helyezes, auto;
+        public int kor, magassag;
         public double legnagyobbseb, atlagseb;
         public bool befejeztee;
 
@@ -21,14 +21,17 @@ namespace Forma1
         {
             string[] st = sor.Split(';');
             nev = st[0];
-            kor = Convert.ToInt32(st[1]);
-            magassag = Convert.ToInt32(st[2]);
-            csapat= st[3];
-            legnagyobbseb = Convert.ToDouble(st[4]);
-            atlagseb = Convert.ToDouble(st[5]);
-            helyezes = Convert.ToInt32(st[6]);
-            auto = st[7];
-            befejeztee = Convert.ToBoolean(st[8]);
+            palya = st[1];
+            kor = Convert.ToInt32(st[2]);
+            magassag = Convert.ToInt32(st[3]);
+            csapat= st[4];
+            legnagyobbseb = Convert.ToDouble(st[5]);
+            atlagseb = Convert.ToDouble(st[6]);
+            auto = st[8];
+            //helyezes = Convert.ToInt32(st[7]);
+            helyezes = st[7];
+
+            befejeztee = Convert.ToBoolean(st[9]);
 
         }  
         

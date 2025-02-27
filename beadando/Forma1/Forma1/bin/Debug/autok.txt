@@ -1,11 +1,11 @@
 # Autók: Azonosító;Lóerő;Csúcssebesség (km/h);Űrtartalom (cm³);Javítás alatt van (True/False)
-Red Bull RB21;1000;372;1600;False
-Mercedes W16;1050;360;1600;True
-Ferrari SF24;950;355;1590;False
-Aston Martin AMR25;950;350;1580;True
-AlphaTauri AT02;850;330;1550;True
-Alpine A523;800;320;1500;True
-Haas VF22;700;310;1450;False
-Alfa Romeo C42;750;300;1400;True
-Williams FW44;680;290;1350;False
-McLaren MCL36;720;280;1300;True
+Red Bull; RB21;1000;372;1600;False
+Mercedes; W16;1050;360;1600;True
+Ferrari; SF24;950;355;1590;False
+Aston; Martin AMR25;950;350;1580;True
+AlphaTauri; AT02;850;330;1550;True
+Alpine; A523;800;320;1500;True
+Haas ;VF22;700;310;1450;False
+Alfa Romeo; C42;750;300;1400;True
+Williams; FW44;680;290;1350;False
+McLaren; MCL36;720;280;1300;True
