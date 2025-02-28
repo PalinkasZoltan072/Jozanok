@@ -15,7 +15,15 @@ namespace Forma1
         static List<Csapatok> csapat = new List<Csapatok>(); 
         
         static Random r = new Random();
-       
+
+       /// <summary>
+       /// parameterek: rend -> mi alapjan , paly
+       /// a rend paraméter alapján rendezi a versenyzoket vagy "helyezes" vagy "kor" vagy "nev" szerint
+       /// </summary>
+       /// <param name="rend"></param>
+       /// <param name="paly"></param>
+       /// <returns></returns>
+       ///
         private static List<Versenyzok> Rendezeses(string rend, string paly)
         {
             
@@ -27,14 +35,20 @@ namespace Forma1
             {
                 return versenyzok.Where(x => x.palya == paly).OrderByDescending(x => x.kor).ToList();
             }
-            else
+            else if(rend == "nev")
             {
                 return versenyzok.Where(x => x.palya == paly).OrderByDescending(x => x.nev).ToList();
+            }
+            else
+            {
+                return null; // ha nem jó a bekert adat akkor majd hibakezelesnel le kell kezelni addig így lesz megoldva
             }
            
 
         }
-
+        /// <summary>
+        /// Az Adatok metódus bekér egy adatot és a kiválasztott adat alapján kiíratja a megadott adat listájának tulajdonságait pl: "csapat" -> csapatnev, ket versenyzo es az auto neve
+        /// </summary>
         public static void Adatok()
         {
             Console.WriteLine("Adjon meg, hogy minek az adatai kellenek: ");
@@ -89,7 +103,9 @@ namespace Forma1
             }
 
         }
-
+        /// <summary>
+        /// Beolvassa a "versenyzok.txt" adatállományát és beleteszi a versenyzok listába
+        /// </summary>
         public static void Fajlbeolvasas()
         {
             StreamReader sr = new StreamReader("versenyzok.txt");
@@ -105,6 +121,9 @@ namespace Forma1
             sr.Close();
 
         }
+        /// <summary>
+        /// Beolvassa a "autok.txt" adatállományát és beleteszi a autok listába
+        /// </summary>
         public static void Fajlbeolvasas2()
         {
             StreamReader sr = new StreamReader("autok.txt");
@@ -121,6 +140,9 @@ namespace Forma1
             sr.Close();
 
         }
+        /// <summary>
+        /// Beolvassa a "csapatok.txt" adatállományát és beleteszi a csapat listába
+        /// </summary>
         public static void Fajlbeolvasas3()
         {
             StreamReader sr = new StreamReader("csapatok.txt");
