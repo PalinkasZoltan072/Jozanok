@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Forma1
 {
-    internal class Csapatok:IKozos
+    internal class Csapatok
     {
         public string csapat, elsoversenyzo,masodikversenyzo, auto;
         

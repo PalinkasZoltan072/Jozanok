@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Forma1
 {
-    internal class Auto:IKozos
+    internal class Autok
     {
         public string auto,azonosito;
         public int loero ,csucssebesseg, urtartalom;
         public bool javitasalatte;
 
-        public Auto(string sor)
+        public Autok(string sor)
         {
             string[] st = sor.Split(';');
             auto = st[0];

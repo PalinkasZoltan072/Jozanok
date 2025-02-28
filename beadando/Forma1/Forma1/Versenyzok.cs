@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Forma1
 {
-    internal class Versenyzo:IKozos
+    internal class Versenyzok
     {
         public string nev,palya ,csapat, helyezes, auto;
         public int kor, magassag;
@@ -17,7 +17,7 @@ namespace Forma1
         
 
     
-        public Versenyzo(string sor) 
+        public Versenyzok(string sor) // parameterben atadott string segitsegevel atadjuk az adattagoknak az ertekeket
         {
             string[] st = sor.Split(';');
             nev = st[0];

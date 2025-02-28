@@ -14,6 +14,7 @@ namespace Forma1
             futtatho.Fajlbeolvasas2();
             futtatho.Fajlbeolvasas3();
             futtatho.PalyaEredmenyek();
+            futtatho.Adatok();
 
             Console.ReadKey();
 

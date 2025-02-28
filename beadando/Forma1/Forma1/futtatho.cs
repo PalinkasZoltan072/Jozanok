@@ -10,13 +10,13 @@ namespace Forma1
 {
     internal class futtatho
     {    // JAVITASRA SZORUL A BEOLVASAS MIVEL AZ ADATOK EGY KICCCCSSIT OSSZEVANNAK KUTYÚVA + tanar ur azt mondta hogy az osztalyba tenne kulon kulon a fajlbeolvasast statikusan!
-        static List<Versenyzo> versenyzok = new List<Versenyzo>();
-        static List<Auto> autok = new List<Auto>();
+        static List<Versenyzok> versenyzok = new List<Versenyzok>();
+        static List<Autok> autok = new List<Autok>();
         static List<Csapatok> csapat = new List<Csapatok>(); 
         
         static Random r = new Random();
        
-        private static List<Versenyzo> Rendezeses(string rend, string paly)
+        private static List<Versenyzok> Rendezeses(string rend, string paly)
         {
             
             if(rend == "helyezes")
@@ -35,6 +35,36 @@ namespace Forma1
 
         }
 
+        public static void Adatok()
+        {
+            Console.WriteLine("Adjon meg, hogy minek az adatai kellenek: ");
+            string adat = Console.ReadLine();
+
+            if(adat == "versenyzok")
+            {
+                for (int i = 0; i < versenyzok.Count(); i++)
+                {
+                        Console.WriteLine(versenyzok[i].nev + " " + versenyzok[i].palya + " " + versenyzok[i].csapat + " " + versenyzok[i].helyezes + " " + versenyzok[i].auto + " " + versenyzok[i].kor + " " + versenyzok[i].magassag + " " + versenyzok[i].legnagyobbseb + " " + versenyzok[i].atlagseb + " " + versenyzok[i].befejeztee);
+                }
+            }
+            
+            else if(adat == "csapat")
+            {
+                for (int i = 0; i < csapat.Count(); i++)
+                {
+                    Console.WriteLine($"{csapat[i].csapat} {csapat[i].elsoversenyzo} {csapat[i].masodikversenyzo} {csapat[i].auto}");
+                }
+            }
+            else
+            {
+                for (int i = 0; i < autok.Count(); i++)
+                {
+                    Console.WriteLine($"{autok[i].auto} {autok[i].azonosito} {autok[i].loero} {autok[i].csucssebesseg} {autok[i].urtartalom} {autok[i].javitasalatte}");
+                }
+            }
+            
+        }
+
         public static void PalyaEredmenyek()
         {
             Console.WriteLine("Adjon meg egy pályát:");
@@ -43,13 +73,10 @@ namespace Forma1
             Console.WriteLine("Mi alapján rendezzünk? :");
             string rend = Console.ReadLine();
             Rendezeses(rend, palya);
-            Rendezettkiiratas();
-        }
-
-        private static void Rendezettkiiratas()
-        {
             
         }
+
+        
 
         static void kiiratas(string palya) 
         {
@@ -61,7 +88,6 @@ namespace Forma1
                 }
             }
 
-
         }
 
         public static void Fajlbeolvasas()
@@ -71,7 +97,7 @@ namespace Forma1
             sr.ReadLine();
             while (!sr.EndOfStream)
             {
-                Versenyzo sv = new Versenyzo(sr.ReadLine());
+                Versenyzok sv = new Versenyzok(sr.ReadLine());
 
                 versenyzok.Add(sv);
             }
@@ -87,7 +113,7 @@ namespace Forma1
 
             while (!sr.EndOfStream)
             {
-                Auto sv = new Auto(sr.ReadLine());
+                Autok sv = new Autok(sr.ReadLine());
 
                 autok.Add(sv);
             }
