@@ -15,49 +15,40 @@ namespace Forma1
         static List<Csapatok> csapat = new List<Csapatok>(); 
         
         static Random r = new Random();
-        static void Main(string[] args)
+       
+        private static List<Versenyzo> Rendezeses(string rend, string paly)
         {
-            Fajlbeolvasas();
-            Fajlbeolvasas2();
-            Fajlbeolvasas3();
-            PalyaEredmenyek();
-
-            Console.ReadKey();
-
-            //Rendezeses();
-
-        }
-
-        private static void RendezesesFeladat()
-        {
-            Console.WriteLine("Mi alapján rendezzünk? :");
-            string rend = Console.ReadLine();
-            Rendezeses(rend);
-
-        }
-
-        private static void Rendezeses(string rend)
-        {
+            
+            if(rend == "helyezes")
+            {
+                return versenyzok.Where(x => x.palya == paly).OrderByDescending(x => x.helyezes).ToList();
+            }
+            else if(rend == "kor")
+            {
+                return versenyzok.Where(x => x.palya == paly).OrderByDescending(x => x.kor).ToList();
+            }
+            else
+            {
+                return versenyzok.Where(x => x.palya == paly).OrderByDescending(x => x.nev).ToList();
+            }
            
-            
-                
-            
-            //for (int i =  - 1; i > 0; i--)
-            //    for (int j = 0; j < i; j++)
-            //        if (t[j] > t[j + 1])
-            //        {
-            //            int tmp = t[j + 1];
-            //            t[j + 1] = t[j];
-            //            t[j] = tmp;
-            //        }
 
         }
 
-        private static void PalyaEredmenyek()
+        public static void PalyaEredmenyek()
         {
             Console.WriteLine("Adjon meg egy pályát:");
             string palya = Console.ReadLine();
             kiiratas(palya);
+            Console.WriteLine("Mi alapján rendezzünk? :");
+            string rend = Console.ReadLine();
+            Rendezeses(rend, palya);
+            Rendezettkiiratas();
+        }
+
+        private static void Rendezettkiiratas()
+        {
+            
         }
 
         static void kiiratas(string palya) 
@@ -73,7 +64,7 @@ namespace Forma1
 
         }
 
-        private static void Fajlbeolvasas()
+        public static void Fajlbeolvasas()
         {
             StreamReader sr = new StreamReader("versenyzok.txt");
 
@@ -88,7 +79,7 @@ namespace Forma1
             sr.Close();
 
         }
-        private static void Fajlbeolvasas2()
+        public static void Fajlbeolvasas2()
         {
             StreamReader sr = new StreamReader("autok.txt");
 
@@ -104,7 +95,7 @@ namespace Forma1
             sr.Close();
 
         }
-        private static void Fajlbeolvasas3()
+        public static void Fajlbeolvasas3()
         {
             StreamReader sr = new StreamReader("csapatok.txt");
 

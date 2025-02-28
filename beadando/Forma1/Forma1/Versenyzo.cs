@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Forma1
 {
-    internal class Versenyzo
+    internal class Versenyzo:IKozos
     {
         public string nev,palya ,csapat, helyezes, auto;
         public int kor, magassag;

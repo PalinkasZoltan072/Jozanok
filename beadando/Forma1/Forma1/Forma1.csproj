@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Auto.cs" />
     <Compile Include="Csapatok.cs" />
+    <Compile Include="IKozos.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="futtatho.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

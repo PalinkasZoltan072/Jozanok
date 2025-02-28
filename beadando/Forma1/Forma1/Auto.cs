@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Forma1
 {
-    internal class Auto
+    internal class Auto:IKozos
     {
         public string auto,azonosito;
         public int loero ,csucssebesseg, urtartalom;

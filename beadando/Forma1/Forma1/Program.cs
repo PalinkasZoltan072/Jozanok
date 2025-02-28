@@ -8,9 +8,17 @@ namespace Forma1
 {
     internal class Program
     {
-        public static void kiiratas()
+        static void Main(string[] args)
         {
-            
+            futtatho.Fajlbeolvasas();
+            futtatho.Fajlbeolvasas2();
+            futtatho.Fajlbeolvasas3();
+            futtatho.PalyaEredmenyek();
+
+            Console.ReadKey();
+
+            //Rendezeses();
+
         }
     }
 }
