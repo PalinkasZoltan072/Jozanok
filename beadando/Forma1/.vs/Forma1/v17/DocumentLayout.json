@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\",
+  "WorkspaceRootPath": "H:\\csapat\\Jozanok\\beadando\\Forma1\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|h:\\2024-25\\=====csapatmunka\\jozanok\\beadando\\forma1\\forma1\\csapatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\csapatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,12 +14,25 @@
     {
       "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\forma1\\autok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\autok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|H:\\csapat\\Jozanok\\beadando\\Forma1\\forma1\\futtatho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\futtatho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\forma1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|h:\\csapat\\jozanok\\beadando\\forma1\\forma1\\versenyzok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\versenyzok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|H:\\csapat\\Jozanok\\beadando\\Forma1\\forma1\\csapatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\csapatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> e518b2a3d8432d0ae363b5a53976131c3313be56
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|H:\\csapat\\Jozanok\\beadando\\Forma1\\forma1\\autok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\autok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\forma1\\versenyzok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\versenyzok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,6 +43,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\forma1\\palyak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\palyak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|H:\\csapat\\Jozanok\\beadando\\Forma1\\forma1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> e518b2a3d8432d0ae363b5a53976131c3313be56
     }
   ],
   "DocumentGroupContainers": [
@@ -42,6 +60,7 @@
           "Children": [
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 6,
               "Title": "Palyak.cs",
               "DocumentMoniker": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Palyak.cs",
@@ -80,10 +99,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+=======
+              "DocumentIndex": 3,
+>>>>>>> e518b2a3d8432d0ae363b5a53976131c3313be56
               "Title": "Autok.cs",
-              "DocumentMoniker": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Autok.cs",
+              "DocumentMoniker": "H:\\csapat\\Jozanok\\beadando\\Forma1\\Forma1\\Autok.cs",
               "RelativeDocumentMoniker": "Forma1\\Autok.cs",
-              "ToolTip": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Autok.cs",
+              "ToolTip": "H:\\csapat\\Jozanok\\beadando\\Forma1\\Forma1\\Autok.cs",
               "RelativeToolTip": "Forma1\\Autok.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -91,11 +113,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Program.cs",
+              "DocumentMoniker": "H:\\csapat\\Jozanok\\beadando\\Forma1\\Forma1\\Program.cs",
               "RelativeDocumentMoniker": "Forma1\\Program.cs",
-              "ToolTip": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Program.cs",
+              "ToolTip": "H:\\csapat\\Jozanok\\beadando\\Forma1\\Forma1\\Program.cs",
               "RelativeToolTip": "Forma1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,27 +125,57 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 5,
+=======
+              "DocumentIndex": 0,
+>>>>>>> e518b2a3d8432d0ae363b5a53976131c3313be56
               "Title": "futtatho.cs",
-              "DocumentMoniker": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\futtatho.cs",
+              "DocumentMoniker": "H:\\csapat\\Jozanok\\beadando\\Forma1\\Forma1\\futtatho.cs",
               "RelativeDocumentMoniker": "Forma1\\futtatho.cs",
-              "ToolTip": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\futtatho.cs",
+              "ToolTip": "H:\\csapat\\Jozanok\\beadando\\Forma1\\Forma1\\futtatho.cs",
               "RelativeToolTip": "Forma1\\futtatho.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAHoAAAAAAAAAAIAwwI8AAABLAAAAAAAAAA==",
+>>>>>>> e518b2a3d8432d0ae363b5a53976131c3313be56
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T12:27:42.652Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
+=======
+              "DocumentIndex": 1,
+>>>>>>> e518b2a3d8432d0ae363b5a53976131c3313be56
               "Title": "Versenyzok.cs",
-              "DocumentMoniker": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Versenyzok.cs",
+              "DocumentMoniker": "H:\\csapat\\Jozanok\\beadando\\Forma1\\Forma1\\Versenyzok.cs",
               "RelativeDocumentMoniker": "Forma1\\Versenyzok.cs",
-              "ToolTip": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Versenyzok.cs",
+              "ToolTip": "H:\\csapat\\Jozanok\\beadando\\Forma1\\Forma1\\Versenyzok.cs",
               "RelativeToolTip": "Forma1\\Versenyzok.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2025-02-20T12:50:30.674Z"
+=======
+              "WhenOpened": "2025-02-20T12:50:30.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Csapatok.cs",
+              "DocumentMoniker": "H:\\csapat\\Jozanok\\beadando\\Forma1\\Forma1\\Csapatok.cs",
+              "RelativeDocumentMoniker": "Forma1\\Csapatok.cs",
+              "ToolTip": "H:\\csapat\\Jozanok\\beadando\\Forma1\\Forma1\\Csapatok.cs",
+              "RelativeToolTip": "Forma1\\Csapatok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T10:22:19.369Z",
+              "EditorCaption": ""
+>>>>>>> e518b2a3d8432d0ae363b5a53976131c3313be56
             }
           ]
         }
