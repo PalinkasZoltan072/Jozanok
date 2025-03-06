@@ -43,8 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IAdatok.cs" />
     <Compile Include="Autok.cs" />
     <Compile Include="Csapatok.cs" />
+    <Compile Include="Palyak.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="futtatho.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

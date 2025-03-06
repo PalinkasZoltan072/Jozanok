@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Forma1
 {
-    internal class Versenyzok
+    internal class Versenyzok : IAdatok
     {
         public string nev,palya ,csapat, helyezes, auto;
         public int kor, magassag;
@@ -33,8 +33,13 @@ namespace Forma1
 
             befejeztee = Convert.ToBoolean(st[9]);
 
-        }  
-        
+        }
+
+        public void Kiiratas()
+        {
+            Console.WriteLine($"{nev} - {csapat} - {helyezes} helyezés - {kor} éves - {auto}");
+        }
+
 
 
     }

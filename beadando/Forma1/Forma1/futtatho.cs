@@ -13,10 +13,11 @@ namespace Forma1
         static List<Versenyzok> versenyzok = new List<Versenyzok>();
         static List<Autok> autok = new List<Autok>();
         static List<Csapatok> csapat = new List<Csapatok>(); 
+        static List<Palyak> palyak = new List<Palyak>();
         
         static Random r = new Random();
        
-        private static List<Versenyzok> Rendezeses(string rend, string paly)
+        public static List<Versenyzok> Rendezeses(string rend, string paly)
         {
             
             if(rend == "helyezes")
@@ -35,16 +36,16 @@ namespace Forma1
 
         }
 
-        public static void Adatok()
+        public static string Adatok(string adat)
         {
-            Console.WriteLine("Adjon meg, hogy minek az adatai kellenek: ");
-            string adat = Console.ReadLine();
+            //Console.WriteLine("Adjon meg, hogy minek az adatai kellenek: ");
+            //string adat = Console.ReadLine();
 
             if(adat == "versenyzok")
             {
                 for (int i = 0; i < versenyzok.Count(); i++)
                 {
-                        Console.WriteLine(versenyzok[i].nev + " " + versenyzok[i].palya + " " + versenyzok[i].csapat + " " + versenyzok[i].helyezes + " " + versenyzok[i].auto + " " + versenyzok[i].kor + " " + versenyzok[i].magassag + " " + versenyzok[i].legnagyobbseb + " " + versenyzok[i].atlagseb + " " + versenyzok[i].befejeztee);
+                        return versenyzok[i].nev + " " + versenyzok[i].palya + " " + versenyzok[i].csapat + " " + versenyzok[i].helyezes + " " + versenyzok[i].auto + " " + versenyzok[i].kor + " " + versenyzok[i].magassag + " " + versenyzok[i].legnagyobbseb + " " + versenyzok[i].atlagseb + " " + versenyzok[i].befejeztee;
                 }
             }
             
@@ -52,16 +53,17 @@ namespace Forma1
             {
                 for (int i = 0; i < csapat.Count(); i++)
                 {
-                    Console.WriteLine($"{csapat[i].csapat} {csapat[i].elsoversenyzo} {csapat[i].masodikversenyzo} {csapat[i].auto}");
+                    return ($"{csapat[i].csapat} {csapat[i].elsoversenyzo} {csapat[i].masodikversenyzo} {csapat[i].auto}");
                 }
             }
             else
             {
                 for (int i = 0; i < autok.Count(); i++)
                 {
-                    Console.WriteLine($"{autok[i].auto} {autok[i].azonosito} {autok[i].loero} {autok[i].csucssebesseg} {autok[i].urtartalom} {autok[i].javitasalatte}");
+                    return ($"{autok[i].auto} {autok[i].azonosito} {autok[i].loero} {autok[i].csucssebesseg} {autok[i].urtartalom} {autok[i].javitasalatte}");
                 }
             }
+            return "";
             
         }
 
@@ -69,7 +71,7 @@ namespace Forma1
         {
             Console.WriteLine("Adjon meg egy pályát:");
             string palya = Console.ReadLine();
-            kiiratas(palya);
+            //kiiratas(palya);
             Console.WriteLine("Mi alapján rendezzünk? :");
             string rend = Console.ReadLine();
             Rendezeses(rend, palya);
@@ -78,7 +80,7 @@ namespace Forma1
 
         
 
-        static void kiiratas(string palya) 
+        /*static void kiiratas(string palya) 
         {
             for (int i = 0; i < versenyzok.Count(); i++)
             {
@@ -88,7 +90,7 @@ namespace Forma1
                 }
             }
 
-        }
+        }*/
 
         public static void Fajlbeolvasas()
         {

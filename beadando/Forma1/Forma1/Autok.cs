@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Forma1
 {
-    internal class Autok
+    internal class Autok :IAdatok
     {
         public string auto,azonosito;
         public int loero ,csucssebesseg, urtartalom;
@@ -23,6 +23,11 @@ namespace Forma1
             javitasalatte = Convert.ToBoolean(st[5]);
 
 
+        }
+
+        public void Kiiratas()
+        {
+            Console.WriteLine($"{auto} - {azonosito} - {loero} lóerő - {csucssebesseg} km/h - {urtartalom} cm3");
         }
 
     }

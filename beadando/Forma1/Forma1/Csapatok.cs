@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Forma1
 {
-    internal class Csapatok
+    internal class Csapatok :IAdatok
     {
         public string csapat, elsoversenyzo,masodikversenyzo, auto;
         
@@ -21,6 +21,11 @@ namespace Forma1
             // tobb versenyzo van egy csapatban es akk hogy taroljuk el? 
             masodikversenyzo = versenyzok[1];
             auto = st[2];
+        }
+
+        public void Kiiratas()
+        {
+            Console.WriteLine($"{csapat} - {elsoversenyzo} - {masodikversenyzo} - {auto}");
         }
     }
 
