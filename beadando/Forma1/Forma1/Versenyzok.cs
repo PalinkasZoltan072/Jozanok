@@ -9,10 +9,9 @@ namespace Forma1
 {
     internal class Versenyzok : IAdatok
     {
-        public string nev,palya ,csapat, helyezes, auto;
+        public string nev ,csapat;
         public int kor, magassag;
-        public double legnagyobbseb, atlagseb;
-        public bool befejeztee;
+       
 
         
 
@@ -21,23 +20,19 @@ namespace Forma1
         {
             string[] st = sor.Split(';');
             nev = st[0];
-            palya = st[1];
-            kor = Convert.ToInt32(st[2]);
-            magassag = Convert.ToInt32(st[3]);
-            csapat= st[4];
-            legnagyobbseb = Convert.ToDouble(st[5]);
-            atlagseb = Convert.ToDouble(st[6]);
-            auto = st[8];
-            //helyezes = Convert.ToInt32(st[7]);
-            helyezes = st[7];
-
-            befejeztee = Convert.ToBoolean(st[9]);
+           
+            kor = Convert.ToInt32(st[1]);
+            magassag = Convert.ToInt32(st[2]);
+            csapat= st[3];
+            
+           
+           
 
         }
 
         public void Kiiratas()
         {
-            Console.WriteLine($"{nev} - {csapat} - {helyezes} helyezés - {kor} éves - {auto}");
+            Console.WriteLine($"{nev} - {csapat} - {magassag} cm - {kor} éves ");
         }
 
 

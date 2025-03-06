@@ -1,0 +1,14 @@
+H:\2024-25\=====csapatmunka\Jozanok\beadando(form)\beadando(form)\bin\Debug\beadando(form).exe.config
+H:\2024-25\=====csapatmunka\Jozanok\beadando(form)\beadando(form)\bin\Debug\beadando(form).exe
+H:\2024-25\=====csapatmunka\Jozanok\beadando(form)\beadando(form)\bin\Debug\beadando(form).pdb
+H:\2024-25\=====csapatmunka\Jozanok\beadando(form)\beadando(form)\bin\Debug\Forma1.exe
+H:\2024-25\=====csapatmunka\Jozanok\beadando(form)\beadando(form)\bin\Debug\Forma1.pdb
+H:\2024-25\=====csapatmunka\Jozanok\beadando(form)\beadando(form)\bin\Debug\Forma1.exe.config
+H:\2024-25\=====csapatmunka\Jozanok\beadando(form)\beadando(form)\obj\Debug\beadando(form).csproj.AssemblyReference.cache
+H:\2024-25\=====csapatmunka\Jozanok\beadando(form)\beadando(form)\obj\Debug\beadando_form_.Form1.resources
+H:\2024-25\=====csapatmunka\Jozanok\beadando(form)\beadando(form)\obj\Debug\beadando_form_.Properties.Resources.resources
+H:\2024-25\=====csapatmunka\Jozanok\beadando(form)\beadando(form)\obj\Debug\beadando(form).csproj.GenerateResource.cache
+H:\2024-25\=====csapatmunka\Jozanok\beadando(form)\beadando(form)\obj\Debug\beadando(form).csproj.CoreCompileInputs.cache
+H:\2024-25\=====csapatmunka\Jozanok\beadando(form)\beadando(form)\obj\Debug\beadando.D046327C.Up2Date
+H:\2024-25\=====csapatmunka\Jozanok\beadando(form)\beadando(form)\obj\Debug\beadando(form).exe
+H:\2024-25\=====csapatmunka\Jozanok\beadando(form)\beadando(form)\obj\Debug\beadando(form).pdb

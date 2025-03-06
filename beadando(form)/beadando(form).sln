@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "beadando(form)", "beadando(form)\beadando(form).csproj", "{00889433-AE41-48C2-8D67-B9CAB0752720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forma1", "..\beadando\Forma1\Forma1\Forma1.csproj", "{11236819-FF7D-4720-B7E8-585E31436FA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00889433-AE41-48C2-8D67-B9CAB0752720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00889433-AE41-48C2-8D67-B9CAB0752720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00889433-AE41-48C2-8D67-B9CAB0752720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00889433-AE41-48C2-8D67-B9CAB0752720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11236819-FF7D-4720-B7E8-585E31436FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11236819-FF7D-4720-B7E8-585E31436FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11236819-FF7D-4720-B7E8-585E31436FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11236819-FF7D-4720-B7E8-585E31436FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C337ED04-BDDB-43E3-8B02-1A86D850E7FB}
+	EndGlobalSection
+EndGlobal

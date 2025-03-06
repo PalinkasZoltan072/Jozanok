@@ -1,4 +1,4 @@
-# Autók: Azonosító;Lóerő;Csúcssebesség (km/h);Űrtartalom (cm³);Javítás alatt van (True/False)
+# Autók:Nev;Azonosító;Lóerő;Csúcssebesség (km/h);Űrtartalom (cm³);Javítás alatt van (True/False)
 Red Bull; RB21;1000;372;1600;False
 Mercedes; W16;1050;360;1600;True
 Ferrari; SF24;950;355;1590;False
