@@ -35,7 +35,7 @@ namespace Forma1.teszteles
 
             [Test]
             [TestCase("Helyezes", 1)]
-            [TestCase("AtlagSeb", 110)] // direkt rossz
+            [TestCase("AtlagSeb", 220)] 
             [TestCase("Nev", "Carlos Sainz")]
             [TestCase("Invalid", null)]
             public void Rendezeses_Test(string rend, object expected)

@@ -1,73 +1,63 @@
 Versenyzők;Pálya;Csapat;Legnagyobb sebesség (km/h);Átlagsebesség (km/h);Helyezés;AutóAzonosito;Befejezte-e a versenyt (True/False)
 Max Verstappen;Hungaroring;Red Bull Racing;372;220;1;RB21;True
-Carlos Sainz;Hungaroring;Ferrari;345;205;4;SF24;True
-Esteban Ocon;Hungaroring;Alpine;320;180;8;A523;True
-Pierre Gasly;Hungaroring;Alpine;315;175;9;A523;True
-Sebastian Vettel;Hungaroring;Aston Martin;310;170;10;AMR25;True
-Daniel Ricciardo;Hungaroring;AlphaTauri;330;190;7;AT02;True
-Daniel Ticktum;Hungaroring;McLaren;260;120;16;MCL36;True
-Kimi Räikkönen;Hungaroring;Alfa Romeo;295;155;12;C42;True
-Lando Norris;Hungaroring;McLaren;265;125;15;MCL36;True
-Fernando Alonso;Hungaroring;Aston Martin;350;210;6;AMR25;True
+Carlos Sainz;Hungaroring;Ferrari;345;205;6;SF24;True
+Esteban Ocon;Hungaroring;Alpine;320;180;4;A523;True
+Pierre Gasly;Hungaroring;Alpine;315;175;7;A523;True
+Sebastian Vettel;Hungaroring;Aston Martin;310;170;9;AMR25;True
+Daniel Ricciardo;Hungaroring;AlphaTauri;330;190;5;AT02;True
+Daniel Ticktum;Hungaroring;McLaren;260;120;14;MCL36;True
+Kimi Räikkönen;Hungaroring;Alfa Romeo;295;155;11;C42;True
+Lando Norris;Hungaroring;McLaren;265;125;13;MCL36;True
+Fernando Alonso;Hungaroring;Aston Martin;350;210;3;AMR25;True
 Lewis Hamilton;Hungaroring;Mercedes;360;215;2;W16;True
-Robert Kubica;Hungaroring;Alfa Romeo;275;135;13;C42;True
-Charles Leclerc;Hungaroring;Ferrari;355;210;3;SF24;True
-George Russell;Hungaroring;Mercedes;350;210;5;W16;True
-Felipe Drugovich;Hungaroring;Aston Martin;235;95;20;AMR25;True
-Mick Jagger;Hungaroring;Haas;240;100;19;VF22;True
-Alex Albon;Hungaroring;Williams;285;145;14;FW44;True
+Valtteri Bottas;Hungaroring;Alfa Romeo;275;135;12;C42;True
+Charles Leclerc;Hungaroring;Ferrari;355;210;8;SF24;True
+George Russell;Hungaroring;Mercedes;350;210;10;W16;True
+Felipe Drugovich;Hungaroring;Aston Martin;235;95;16;AMR25;True
+Mick Jagger;Hungaroring;Haas;240;100;15;VF22;True
+Alex Albon;Hungaroring;Williams;285;145;17;FW44;True
 Callum Ilott;Hungaroring;Alfa Romeo;245;105;18;C42;True
-Robert Shwartzman;Hungaroring;Ferrari;250;110;17;SF24;True
-Nikita Mazepin;Hungaroring;Haas;230;90;DNF;VF22;False
-Mick Schumacher;Hungaroring;Haas;305;165;DNF;VF22;False
-Sergio Pérez;Hungaroring;Red Bull Racing;370;225;DNF;RB21;False
-Lance Stroll;Hungaroring;Aston Martin;340;200;DNF;AMR25;False
-Nicolas Latifi;Hungaroring;Williams;290;150;DNF;FW44;False
-Max Verstappen;Monaco;Red Bull Racing;372;220;1;RB21;True
-Carlos Sainz;Monaco;Ferrari;345;205;4;SF24;True
-Mick Jagger;Monaco;Haas;240;100;19;VF22;True
-Charles Leclerc;Monaco;Ferrari;355;210;3;SF24;True
-Lando Norris;Monaco;McLaren;265;125;15;MCL36;True
-Robert Kubica;Monaco;Alfa Romeo;275;135;13;C42;True
-Alex Albon;Monaco;Williams;285;145;14;FW44;True
+Nikita Mazepin;Hungaroring;Haas;230;90;25;VF22;False
+Mick Schumacher;Hungaroring;Haas;305;165;25;VF22;False
+Sergio Pérez;Hungaroring;Red Bull Racing;370;225;25;RB21;False
+Lance Stroll;Hungaroring;Aston Martin;340;200;25;AMR25;False
+Nicolas Latifi;Hungaroring;Williams;290;150;25;FW44;False
+Max Verstappen;Monaco;Red Bull Racing;372;220;2;RB21;True
+Carlos Sainz;Monaco;Ferrari;345;205;5;SF24;True
+Charles Leclerc;Monaco;Ferrari;355;210;4;SF24;True
+Lando Norris;Monaco;McLaren;265;125;14;MCL36;True
+Robert Kubica;Monaco;Alfa Romeo;275;135;11;C42;True
+Alex Albon;Monaco;Williams;285;145;10;FW44;True
 Fernando Alonso;Monaco;Aston Martin;350;210;6;AMR25;True
-Valtteri Bottas;Monaco;Alfa Romeo;300;160;11;C42;True
-Sergio Pérez;Monaco;Red Bull Racing;370;225;DNF;RB21;False
-Nikita Mazepin;Monaco;Haas;230;90;DNF;VF22;False
-Mick Schumacher;Monaco;Haas;305;165;DNF;VF22;False
+Valtteri Bottas;Monaco;Alfa Romeo;300;160;8;C42;True
+Sergio Pérez;Monaco;Red Bull Racing;370;225;25;RB21;False
+Nikita Mazepin;Monaco;Haas;230;90;25;VF22;False
+Mick Schumacher;Monaco;Haas;305;165;25;VF22;False
 Daniel Ricciardo;Monaco;AlphaTauri;330;190;7;AT02;True
-Sebastian Vettel;Monaco;Aston Martin;310;170;10;AMR25;True
-Kimi Räikkönen;Monaco;Alfa Romeo;295;155;12;C42;True
-Esteban Ocon;Monaco;Alpine;320;180;8;A523;True
+Sebastian Vettel;Monaco;Aston Martin;310;170;9;AMR25;True
+Esteban Ocon;Monaco;AlphaTauri;320;180;3;A523;True
 Daniel Ticktum;Monaco;McLaren;260;120;16;MCL36;True
-George Russell;Monaco;Mercedes;350;210;5;W16;True
-Lance Stroll;Monaco;Aston Martin;340;200;DNF;AMR25;False
-Callum Ilott;Monaco;Alfa Romeo;245;105;18;C42;True
-Felipe Drugovich;Monaco;Aston Martin;235;95;20;AMR25;True
-Lewis Hamilton;Monaco;Mercedes;360;215;2;W16;True
-Robert Shwartzman;Monaco;Ferrari;250;110;17;SF24;True
-Nicolas Latifi;Monaco;Williams;290;150;DNF;FW44;False
-Lando Norris;Bahrain;McLaren;265;125;15;MCL36;True
-Daniel Ricciardo;Bahrain;AlphaTauri;330;190;7;AT02;True
-Carlos Sainz;Bahrain;Ferrari;345;205;4;SF24;True
-Sebastian Vettel;Bahrain;Aston Martin;310;170;10;AMR25;True
-Daniel Ticktum;Bahrain;McLaren;260;120;16;MCL36;True
-Mick Jagger;Bahrain;Haas;240;100;19;VF22;True
-Charles Leclerc;Bahrain;Ferrari;355;210;3;SF24;True
-Felipe Drugovich;Bahrain;Aston Martin;235;95;20;AMR25;True
+George Russell;Monaco;Mercedes;350;210;1;W16;True
+Callum Ilott;Monaco;Alfa Romeo;245;105;15;C42;True
+Felipe Drugovich;Monaco;Aston Martin;235;95;18;AMR25;True
+Lewis Hamilton;Monaco;Mercedes;360;215;25;W16;False
+Nicolas Latifi;Monaco;Williams;290;150;25;FW44;False
+Lando Norris;Bahrain;McLaren;265;125;11;MCL36;True
+Daniel Ricciardo;Bahrain;AlphaTauri;330;190;5;AT02;True
+Carlos Sainz;Bahrain;Ferrari;345;205;3;SF24;True
+Daniel Ticktum;Bahrain;McLaren;260;120;12;MCL36;True
+Charles Leclerc;Bahrain;Ferrari;355;210;1;SF24;True
+Felipe Drugovich;Bahrain;Aston Martin;235;95;15;AMR25;True
 Esteban Ocon;Bahrain;Alpine;320;180;8;A523;True
-Sergio Pérez;Bahrain;Red Bull Racing;370;225;DNF;RB21;False
-Alex Albon;Bahrain;Williams;285;145;14;FW44;True
-Max Verstappen;Bahrain;Red Bull Racing;372;220;1;RB21;True
-George Russell;Bahrain;Mercedes;350;210;5;W16;True
-Nikita Mazepin;Bahrain;Haas;230;90;DNF;VF22;False
-Pierre Gasly;Bahrain;Alpine;315;175;9;A523;True
-Mick Schumacher;Bahrain;Haas;305;165;DNF;VF22;False
-Callum Ilott;Bahrain;Alfa Romeo;245;105;18;C42;True
-Mick Jagger;Bahrain;Haas;240;100;19;VF22;True
-Fernando Alonso;Bahrain;Aston Martin;350;210;6;AMR25;True
-Kimi Räikkönen;Bahrain;Alfa Romeo;295;155;12;C42;True
-Lance Stroll;Bahrain;Aston Martin;340;200;DNF;AMR25;False
-Valtteri Bottas;Bahrain;Alfa Romeo;300;160;11;C42;True
-Nicolas Latifi;Bahrain;Williams;290;150;DNF;FW44;False
-Robert Shwartzman;Bahrain;Ferrari;250;110;17;SF24;True
+Sergio Pérez;Bahrain;Red Bull Racing;370;225;25;RB21;False
+Alex Albon;Bahrain;Williams;285;145;13;FW44;True
+Max Verstappen;Bahrain;Red Bull Racing;372;220;2;RB21;True
+George Russell;Bahrain;Mercedes;350;210;6;W16;True
+Pierre Gasly;Bahrain;Alpine;315;175;10;A523;True
+Mick Schumacher;Bahrain;Haas;305;165;25;VF22;False
+Mick Jagger;Bahrain;Haas;240;100;16;VF22;True
+Fernando Alonso;Bahrain;Aston Martin;350;210;7;AMR25;True
+Kimi Räikkönen;Bahrain;Alfa Romeo;295;155;17;C42;True
+Pierre Gasly;Bahrain;AlphaTauri;340;200;25;AT02;False
+Valtteri Bottas;Bahrain;Alfa Romeo;300;160;4;C42;True
+Nicolas Latifi;Bahrain;Williams;290;150;25;FW44;False

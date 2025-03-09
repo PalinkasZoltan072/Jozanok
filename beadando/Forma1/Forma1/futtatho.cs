@@ -9,17 +9,13 @@ using System.Threading.Tasks;
 namespace Forma1
 {
      public class futtatho
-    {    // JAVITASRA SZORUL A BEOLVASAS MIVEL AZ ADATOK EGY KICCCCSSIT OSSZEVANNAK KUTYÚVA + tanar ur azt mondta hogy az osztalyba tenne kulon kulon a fajlbeolvasast statikusan!
+    {   
         static List<Versenyzok> versenyzok = new List<Versenyzok>();
         static List<Autok> autok = new List<Autok>();
         static List<Csapatok> csapatok = new List<Csapatok>(); 
        public  static List<Eredmenyek> eredmenyek = new List<Eredmenyek>();
         
         static Random r = new Random();
-
-
-
-
 
         /// <summary>
         /// parameterek: rend -> mi alapjan , paly
@@ -84,20 +80,6 @@ namespace Forma1
         {
             return autok.Where(x => x.azonosito == a).ToList();
         }
-
-        //public static void PalyaEredmenyek()
-        //{
-        //    Console.WriteLine("Adjon meg egy pályát:");
-        //    string palya = Console.ReadLine();
-        //    //kiiratas(palya);
-        //    Console.WriteLine("Mi alapján rendezzünk? :");
-        //    string rend = Console.ReadLine();
-        //    Rendezeses(rend, palya);
-            
-        //}
-
-        
-
 
 
         

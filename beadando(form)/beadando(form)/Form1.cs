@@ -25,7 +25,9 @@ namespace beadando_form_
             dataGridView1.Visible = false;
             dataGridView1.RowHeadersVisible = false;
             dataGridView2.Visible = false;
+            dataGridView2.RowHeadersVisible = false;
             
+
         }
 
         

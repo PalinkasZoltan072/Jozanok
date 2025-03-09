@@ -39,9 +39,9 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(29, 24);
+            this.button2.Location = new System.Drawing.Point(12, 12);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(185, 103);
+            this.button2.Size = new System.Drawing.Size(139, 54);
             this.button2.TabIndex = 2;
             this.button2.Text = "Start";
             this.button2.UseVisualStyleBackColor = true;
@@ -54,27 +54,27 @@
             "Bahrain",
             "Hungaroring",
             "Monaco"});
-            this.comboBox1.Location = new System.Drawing.Point(29, 188);
+            this.comboBox1.Location = new System.Drawing.Point(12, 12);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(185, 21);
             this.comboBox1.TabIndex = 3;
+            this.comboBox1.Text = "Valami pályát öcskös!";
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(273, 12);
+            this.dataGridView1.Location = new System.Drawing.Point(12, 51);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(939, 330);
+            this.dataGridView1.Size = new System.Drawing.Size(939, 318);
             this.dataGridView1.TabIndex = 4;
             this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
-
             this.dataGridView1.ColumnHeaderMouseClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dataGridView1_ColumnHeaderMouseClick);
             // 
             // dataGridView2
             // 
             this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView2.Location = new System.Drawing.Point(273, 360);
+            this.dataGridView2.Location = new System.Drawing.Point(12, 375);
             this.dataGridView2.Name = "dataGridView2";
             this.dataGridView2.Size = new System.Drawing.Size(939, 153);
             this.dataGridView2.TabIndex = 5;
@@ -83,7 +83,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1347, 579);
+            this.ClientSize = new System.Drawing.Size(964, 541);
             this.Controls.Add(this.dataGridView2);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.comboBox1);
