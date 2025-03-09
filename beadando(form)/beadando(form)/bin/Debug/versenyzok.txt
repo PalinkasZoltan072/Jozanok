@@ -2,7 +2,7 @@ Versenyzők: Név;Kor;Magasság;Csapat
 Max Verstappen;27;180;Red Bull Racing
 Carlos Sainz;30;178;Ferrari
 Esteban Ocon;28;177;Alpine
-Pierre Gasly;27;175;Alpine
+Palinkas Zoltan;27;175;Alpine
 Sebastian Vettel;36;182;Aston Martin
 Daniel Ricciardo;34;180;AlphaTauri
 Daniel Ticktum;22;168;McLaren

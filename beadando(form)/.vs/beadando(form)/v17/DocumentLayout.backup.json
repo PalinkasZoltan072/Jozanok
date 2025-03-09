@@ -1,20 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\Jozanok-main\\beadando(form)\\",
+  "WorkspaceRootPath": "C:\\Users\\kutya\\Desktop\\\u00DAj mappa\\Jozanok\\beadando(form)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00889433-AE41-48C2-8D67-B9CAB0752720}|beadando(form)\\beadando(form).csproj|c:\\users\\kutya\\desktop\\jozanok-main\\jozanok-main\\beadando(form)\\beadando(form)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{00889433-AE41-48C2-8D67-B9CAB0752720}|beadando(form)\\beadando(form).csproj|C:\\Users\\kutya\\Desktop\\\u00DAj mappa\\Jozanok\\beadando(form)\\beadando(form)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{00889433-AE41-48C2-8D67-B9CAB0752720}|beadando(form)\\beadando(form).csproj|solutionrelative:beadando(form)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|..\\beadando\\Forma1\\Forma1\\Forma1.csproj|c:\\users\\kutya\\desktop\\jozanok-main\\jozanok-main\\beadando\\forma1\\forma1\\futtatho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kutya\\Desktop\\Jozanok-main\\Jozanok-main\\beadando\\Forma1\\Forma1\\teszteles\\teszteles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00889433-AE41-48C2-8D67-B9CAB0752720}|beadando(form)\\beadando(form).csproj|C:\\Users\\kutya\\Desktop\\Jozanok-main\\Jozanok-main\\beadando(form)\\beadando(form)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00889433-AE41-48C2-8D67-B9CAB0752720}|beadando(form)\\beadando(form).csproj|C:\\Users\\kutya\\Desktop\\\u00DAj mappa\\Jozanok\\beadando(form)\\beadando(form)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00889433-AE41-48C2-8D67-B9CAB0752720}|beadando(form)\\beadando(form).csproj|solutionrelative:beadando(form)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|..\\beadando\\Forma1\\Forma1\\Forma1.csproj|c:\\users\\kutya\\desktop\\jozanok-main\\jozanok-main\\beadando\\forma1\\forma1\\teszteles\\teszteles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kutya\\Desktop\\Jozanok-main\\Jozanok-main\\beadando\\Forma1\\Forma1\\futtatho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,9 +30,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\Jozanok-main\\beadando(form)\\beadando(form)\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\\u00DAj mappa\\Jozanok\\beadando(form)\\beadando(form)\\Form1.cs",
               "RelativeDocumentMoniker": "beadando(form)\\Form1.cs",
-              "ToolTip": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\Jozanok-main\\beadando(form)\\beadando(form)\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\kutya\\Desktop\\\u00DAj mappa\\Jozanok\\beadando(form)\\beadando(form)\\Form1.cs [Design]",
               "RelativeToolTip": "beadando(form)\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T11:49:49.207Z",
@@ -41,25 +41,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "futtatho.cs",
               "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\Jozanok-main\\beadando\\Forma1\\Forma1\\futtatho.cs",
-              "RelativeDocumentMoniker": "..\\beadando\\Forma1\\Forma1\\futtatho.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Jozanok-main\\Jozanok-main\\beadando\\Forma1\\Forma1\\futtatho.cs",
               "ToolTip": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\Jozanok-main\\beadando\\Forma1\\Forma1\\futtatho.cs",
-              "RelativeToolTip": "..\\beadando\\Forma1\\Forma1\\futtatho.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAgwBoAAAALAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\Jozanok-main\\Jozanok-main\\beadando\\Forma1\\Forma1\\futtatho.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T21:48:10.394Z"
+              "WhenOpened": "2025-03-09T21:48:10.394Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "teszteles.cs",
               "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\Jozanok-main\\beadando\\Forma1\\Forma1\\teszteles\\teszteles.cs",
-              "RelativeDocumentMoniker": "..\\beadando\\Forma1\\Forma1\\teszteles\\teszteles.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Jozanok-main\\Jozanok-main\\beadando\\Forma1\\Forma1\\teszteles\\teszteles.cs",
               "ToolTip": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\Jozanok-main\\beadando\\Forma1\\Forma1\\teszteles\\teszteles.cs",
-              "RelativeToolTip": "..\\beadando\\Forma1\\Forma1\\teszteles\\teszteles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAoAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\Jozanok-main\\Jozanok-main\\beadando\\Forma1\\Forma1\\teszteles\\teszteles.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T17:37:47.739Z"
             },
@@ -67,13 +67,14 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\Jozanok-main\\beadando(form)\\beadando(form)\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\\u00DAj mappa\\Jozanok\\beadando(form)\\beadando(form)\\Form1.cs",
               "RelativeDocumentMoniker": "beadando(form)\\Form1.cs",
-              "ToolTip": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\Jozanok-main\\beadando(form)\\beadando(form)\\Form1.cs",
+              "ToolTip": "C:\\Users\\kutya\\Desktop\\\u00DAj mappa\\Jozanok\\beadando(form)\\beadando(form)\\Form1.cs",
               "RelativeToolTip": "beadando(form)\\Form1.cs",
               "ViewState": "AgIAAGsAAAAAAAAAAAAAwHwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T13:07:08.566Z"
+              "WhenOpened": "2025-03-06T13:07:08.566Z",
+              "EditorCaption": ""
             }
           ]
         }
