@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Forma1
 {
-    internal class Eredmenyek:IAdatok
+    public class Eredmenyek:IAdatok
     {
         public string Nev {  get; set; }
         public string Palya;
@@ -14,7 +14,7 @@ namespace Forma1
 
         public int LegnagyobbSeb { get; set; }
         public int AtlagSeb { get; set; }
-        public int Helyezes {  get; set; }
+        public int  Helyezes {  get; set; }
 
         public string AutoAzonostio {  get; set; }
         public bool BefejezteE { get; set; }
@@ -29,8 +29,8 @@ namespace Forma1
             AtlagSeb = Convert.ToInt32( st[4]);
             Helyezes = Convert.ToInt32(st[5]);
             AutoAzonostio = (st[6]);
-            BefejezteE = Convert.ToBoolean( st[8]);
-            
+            BefejezteE = Convert.ToBoolean( st[7]);
+             
 
         }
         public void Kiiratas()

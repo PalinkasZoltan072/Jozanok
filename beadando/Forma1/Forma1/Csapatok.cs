@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace Forma1
 {
-    internal class Csapatok :IAdatok
+    public class Csapatok :IAdatok
     {
-        public string csapat, elsoversenyzo,masodikversenyzo, auto;
-        
+        public string csapat { get; set; }
+        public string elsoversenyzo { get; set; }
+        public string masodikversenyzo { get; set; }
+        public string auto { get; set; }
 
         public Csapatok(string sor) 
         {

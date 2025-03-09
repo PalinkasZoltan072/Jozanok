@@ -1,5 +1,5 @@
 Versenyzők;Pálya;Csapat;Legnagyobb sebesség (km/h);Átlagsebesség (km/h);Helyezés;AutóAzonosito;Befejezte-e a versenyt (True/False)
-ML;Hungaroring;Red Bull Racing;372;220;1;RB21;True
+Max Verstappen;Hungaroring;Red Bull Racing;372;220;1;RB21;True
 Carlos Sainz;Hungaroring;Ferrari;345;205;4;SF24;True
 Esteban Ocon;Hungaroring;Alpine;320;180;8;A523;True
 Pierre Gasly;Hungaroring;Alpine;315;175;9;A523;True

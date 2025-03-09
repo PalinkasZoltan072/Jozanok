@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando(form)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00889433-AE41-48C2-8D67-B9CAB0752720}|beadando(form)\\beadando(form).csproj|h:\\2024-25\\=====csapatmunka\\jozanok\\beadando(form)\\beadando(form)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00889433-AE41-48C2-8D67-B9CAB0752720}|beadando(form)\\beadando(form).csproj|solutionrelative:beadando(form)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00889433-AE41-48C2-8D67-B9CAB0752720}|beadando(form)\\beadando(form).csproj|h:\\2024-25\\=====csapatmunka\\jozanok\\beadando(form)\\beadando(form)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{00889433-AE41-48C2-8D67-B9CAB0752720}|beadando(form)\\beadando(form).csproj|solutionrelative:beadando(form)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00889433-AE41-48C2-8D67-B9CAB0752720}|beadando(form)\\beadando(form).csproj|h:\\2024-25\\=====csapatmunka\\jozanok\\beadando(form)\\beadando(form)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00889433-AE41-48C2-8D67-B9CAB0752720}|beadando(form)\\beadando(form).csproj|solutionrelative:beadando(form)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando(form)\\beadando(form)\\Form1.cs",
               "RelativeDocumentMoniker": "beadando(form)\\Form1.cs",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando(form)\\beadando(form)\\Form1.cs",
               "RelativeDocumentMoniker": "beadando(form)\\Form1.cs",

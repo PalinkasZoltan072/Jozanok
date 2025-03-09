@@ -13,10 +13,9 @@ namespace Forma1
             futtatho.Fajlbeolvasas();
             futtatho.Fajlbeolvasas2();
             futtatho.Fajlbeolvasas3();
-            futtatho.PalyaEredmenyek();
-            futtatho.CsapatAdatok("Red Bull");
-            futtatho.VersenyzoAdatok("versenyzok");
-            futtatho.AutoAdatok("RB21");
+            futtatho.Fajlbeolvasas4();
+
+           
 
 
 

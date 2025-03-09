@@ -1,40 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\",
+  "WorkspaceRootPath": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando\\Forma1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|h:\\2024-25\\=====csapatmunka\\jozanok\\beadando\\forma1\\forma1\\eredmenyek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\eredmenyek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\forma1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando\\Forma1\\forma1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Forma1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\forma1\\futtatho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando\\Forma1\\forma1\\futtatho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\futtatho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\forma1\\iadatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00889433-AE41-48C2-8D67-B9CAB0752720}|..\\..\\beadando(form)\\beadando(form)\\beadando(form).csproj|c:\\users\\kutya\\desktop\\jozanok-main\\beadando(form)\\beadando(form)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00889433-AE41-48C2-8D67-B9CAB0752720}|..\\..\\beadando(form)\\beadando(form)\\beadando(form).csproj|c:\\users\\kutya\\desktop\\jozanok-main\\beadando(form)\\beadando(form)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|c:\\users\\kutya\\desktop\\jozanok-main\\beadando\\forma1\\forma1\\eredmenyek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\eredmenyek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando\\Forma1\\forma1\\iadatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\iadatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\forma1\\autok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\autok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|h:\\2024-25\\=====csapatmunka\\jozanok\\beadando\\forma1\\forma1\\csapatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando\\Forma1\\forma1\\csapatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\csapatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\forma1\\versenyzok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\versenyzok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando\\Forma1\\forma1\\autok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\autok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|h:\\2024-25\\=====csapatmunka\\jozanok\\beadando\\forma1\\forma1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+      "AbsoluteMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando\\Forma1\\forma1\\versenyzok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11236819-FF7D-4720-B7E8-585E31436FA1}|Forma1\\Forma1.csproj|solutionrelative:forma1\\versenyzok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,42 +44,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando(form)\\beadando(form)\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\beadando(form)\\beadando(form)\\Form1.cs",
+              "ToolTip": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando(form)\\beadando(form)\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\beadando(form)\\beadando(form)\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T13:07:50.662Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Forma1",
-              "DocumentMoniker": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Forma1.csproj",
-              "RelativeDocumentMoniker": "Forma1\\Forma1.csproj",
-              "ToolTip": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Forma1.csproj",
-              "RelativeToolTip": "Forma1\\Forma1.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-06T12:56:47.598Z",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando(form)\\beadando(form)\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\beadando(form)\\beadando(form)\\Form1.cs",
+              "ToolTip": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando(form)\\beadando(form)\\Form1.cs",
+              "RelativeToolTip": "..\\..\\beadando(form)\\beadando(form)\\Form1.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAmwGEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T13:07:55.268Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "futtatho.cs",
+              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando\\Forma1\\Forma1\\futtatho.cs",
+              "RelativeDocumentMoniker": "Forma1\\futtatho.cs",
+              "ToolTip": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando\\Forma1\\Forma1\\futtatho.cs",
+              "RelativeToolTip": "Forma1\\futtatho.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAawKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:27:42.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando\\Forma1\\Forma1\\Program.cs",
+              "RelativeDocumentMoniker": "Forma1\\Program.cs",
+              "ToolTip": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando\\Forma1\\Forma1\\Program.cs",
+              "RelativeToolTip": "Forma1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:08:42.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Eredmenyek.cs",
-              "DocumentMoniker": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Eredmenyek.cs",
+              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando\\Forma1\\Forma1\\Eredmenyek.cs",
               "RelativeDocumentMoniker": "Forma1\\Eredmenyek.cs",
-              "ToolTip": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Eredmenyek.cs",
+              "ToolTip": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando\\Forma1\\Forma1\\Eredmenyek.cs",
               "RelativeToolTip": "Forma1\\Eredmenyek.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB4AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T10:07:42.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IAdatok.cs",
-              "DocumentMoniker": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\IAdatok.cs",
+              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando\\Forma1\\Forma1\\IAdatok.cs",
               "RelativeDocumentMoniker": "Forma1\\IAdatok.cs",
-              "ToolTip": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\IAdatok.cs",
+              "ToolTip": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando\\Forma1\\Forma1\\IAdatok.cs",
               "RelativeToolTip": "Forma1\\IAdatok.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T09:18:05.685Z",
               "EditorCaption": ""
@@ -88,63 +129,37 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Csapatok.cs",
-              "DocumentMoniker": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Csapatok.cs",
+              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando\\Forma1\\Forma1\\Csapatok.cs",
               "RelativeDocumentMoniker": "Forma1\\Csapatok.cs",
-              "ToolTip": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Csapatok.cs",
+              "ToolTip": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando\\Forma1\\Forma1\\Csapatok.cs",
               "RelativeToolTip": "Forma1\\Csapatok.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T10:22:19.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Autok.cs",
-              "DocumentMoniker": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Autok.cs",
+              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando\\Forma1\\Forma1\\Autok.cs",
               "RelativeDocumentMoniker": "Forma1\\Autok.cs",
-              "ToolTip": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Autok.cs",
+              "ToolTip": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando\\Forma1\\Forma1\\Autok.cs",
               "RelativeToolTip": "Forma1\\Autok.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T10:22:13.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Program.cs",
-              "RelativeDocumentMoniker": "Forma1\\Program.cs",
-              "ToolTip": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Program.cs",
-              "RelativeToolTip": "Forma1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T10:08:42.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "futtatho.cs",
-              "DocumentMoniker": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\futtatho.cs",
-              "RelativeDocumentMoniker": "Forma1\\futtatho.cs",
-              "ToolTip": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\futtatho.cs",
-              "RelativeToolTip": "Forma1\\futtatho.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAkwEwAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:27:42.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Versenyzok.cs",
-              "DocumentMoniker": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Versenyzok.cs",
+              "DocumentMoniker": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando\\Forma1\\Forma1\\Versenyzok.cs",
               "RelativeDocumentMoniker": "Forma1\\Versenyzok.cs",
-              "ToolTip": "H:\\2024-25\\=====csapatmunka\\Jozanok\\beadando\\Forma1\\Forma1\\Versenyzok.cs",
+              "ToolTip": "C:\\Users\\kutya\\Desktop\\Jozanok-main\\beadando\\Forma1\\Forma1\\Versenyzok.cs",
               "RelativeToolTip": "Forma1\\Versenyzok.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T12:50:30.674Z",
               "EditorCaption": ""

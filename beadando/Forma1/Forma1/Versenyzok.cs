@@ -7,15 +7,17 @@ using System.Threading.Tasks;
 
 namespace Forma1
 {
-    internal class Versenyzok : IAdatok
+    public class Versenyzok : IAdatok
     {
-        public string nev ,csapat;
-        public int kor, magassag;
-       
+        public string nev { get; set; } 
+        public string csapat { get; set; }
+        public int kor { get; set; }
+        public int magassag { get; set; }
 
-        
 
-    
+
+
+
         public Versenyzok(string sor) // parameterben atadott string segitsegevel atadjuk az adattagoknak az ertekeket
         {
             string[] st = sor.Split(';');

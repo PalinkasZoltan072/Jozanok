@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Forma1
 {
-    internal interface IAdatok
+    public interface IAdatok
     {
         void Kiiratas();
     }

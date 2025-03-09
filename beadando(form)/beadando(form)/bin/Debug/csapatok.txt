@@ -1,0 +1,11 @@
+#Csapat neve;Versenyzők (Vezető, Versenyző);Autó
+Red Bull Racing;Max Verstappen, Sergio Pérez;Red Bull RB21
+Mercedes;Lewis Hamilton, George Russell;Mercedes W16
+Ferrari;Charles Leclerc, Carlos Sainz;Ferrari SF24
+Aston Martin;Fernando Alonso, Lance Stroll;Aston Martin AMR25
+AlphaTauri;Daniel Ricciardo, Pierre Gasly;AlphaTauri AT02
+Alpine;Esteban Ocon, Pierre Gasly;Alpine A523
+Haas;Mick Schumacher, Nikita Mazepin;Haas VF22
+Alfa Romeo;Valtteri Bottas, Kimi Räikkönen;Alfa Romeo C42
+Williams;Nicholas Latifi, Alex Albon;Williams FW44
+McLaren;Lando Norris, Daniel Ticktum;McLaren MCL36

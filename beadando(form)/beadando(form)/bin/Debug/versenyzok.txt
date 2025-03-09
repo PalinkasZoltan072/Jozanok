@@ -1,0 +1,76 @@
+Versenyzők: Név;Kor;Magasság;Csapat
+Max Verstappen;27;180;Red Bull Racing
+Carlos Sainz;30;178;Ferrari
+Esteban Ocon;28;177;Alpine
+Pierre Gasly;27;175;Alpine
+Sebastian Vettel;36;182;Aston Martin
+Daniel Ricciardo;34;180;AlphaTauri
+Daniel Ticktum;22;168;McLaren
+Kimi Räikkönen;45;179;Alfa Romeo
+Lando Norris;24;170;McLaren
+Fernando Alonso;43;171;Aston Martin
+Lewis Hamilton;40;174;Mercedes
+Robert Kubica;39;176;Alfa Romeo
+Charles Leclerc;27;180;Ferrari
+George Russell;26;182;Mercedes
+Felipe Drugovich;23;171;Aston Martin
+Mick Jagger;26;176;Haas
+Alex Albon;28;177;Williams
+Callum Ilott;24;173;Alfa Romeo
+Robert Shwartzman;25;180;Ferrari
+Nikita Mazepin;24;179;Haas
+Mick Schumacher;25;181;Haas
+Sergio Pérez;34;173;Red Bull Racing
+Lance Stroll;25;179;Aston Martin
+Nicolas Latifi;28;176;Williams
+Max Verstappen;27;180;Red Bull Racing
+Carlos Sainz;30;178;Ferrari
+Mick Jagger;26;176;Haas
+Charles Leclerc;27;180;Ferrari
+Lando Norris;24;170;McLaren
+Robert Kubica;39;176;Alfa Romeo
+Alex Albon;28;177;Williams
+Fernando Alonso;43;171;Aston Martin
+Valtteri Bottas;34;178;Alfa Romeo
+Sergio Pérez;34;173;Red Bull Racing
+Nikita Mazepin;24;179;Haas
+Mick Schumacher;25;181;Haas
+Daniel Ricciardo;34;180;AlphaTauri
+Sebastian Vettel;36;182;Aston Martin
+Kimi Räikkönen;45;179;Alfa Romeo
+Esteban Ocon;28;177;Alpine
+Daniel Ticktum;22;168;McLaren
+George Russell;26;182;Mercedes
+Lance Stroll;25;179;Aston Martin
+Callum Ilott;24;173;Alfa Romeo
+Felipe Drugovich;23;171;Aston Martin
+Lewis Hamilton;40;174;Mercedes
+Robert Shwartzman;25;180;Ferrari
+Nicolas Latifi;28;176;Williams
+Lando Norris;24;170;McLaren
+Daniel Ricciardo;34;180;AlphaTauri
+Carlos Sainz;30;178;Ferrari
+Sebastian Vettel;36;182;Aston Martin
+Daniel Ticktum;22;168;McLaren
+Mick Jagger;26;176;Haas
+Charles Leclerc;27;180;Ferrari
+Felipe Drugovich;23;171;Aston Martin
+Esteban Ocon;28;177;Alpine
+Sergio Pérez;34;173;Red Bull Racing
+Alex Albon;28;177;Williams
+Max Verstappen;27;180;Red Bull Racing
+George Russell;26;182;Mercedes
+Nikita Mazepin;24;179;Haas
+Pierre Gasly;27;175;Alpine
+Mick Schumacher;25;181;Haas
+Callum Ilott;24;173;Alfa Romeo
+Mick Jagger;26;176;Haas
+Fernando Alonso;43;171;Aston Martin
+Kimi Räikkönen;45;179;Alfa Romeo
+Lance Stroll;25;179;Aston Martin
+Valtteri Bottas;34;178;Alfa Romeo
+Nicolas Latifi;28;176;Williams
+Robert Shwartzman;25;180;Ferrari
+Lewis Hamilton;40;174;Mercedes
+Robert Kubica;39;176;Alfa Romeo
+Carlos Sainz;30;178;Ferrari

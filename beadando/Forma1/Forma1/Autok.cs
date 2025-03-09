@@ -6,11 +6,14 @@ using System.Threading.Tasks;
 
 namespace Forma1
 {
-    internal class Autok :IAdatok
+    public class Autok :IAdatok
     {
-        public string auto,azonosito;
-        public int loero ,csucssebesseg, urtartalom;
-        public bool javitasalatte;
+        public string auto { get; set; }
+        public string azonosito { get; set; }
+        public int loero { get; set; } 
+        public int csucssebesseg { get; set; }
+        public int urtartalom  {  get; set; }
+        public bool javitasalatte { get; set; }
 
         public Autok(string sor)
         {
